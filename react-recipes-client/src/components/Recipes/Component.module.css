@@ -1,0 +1,7 @@
+.card {
+    @apply border py-4 px-6 mb-2 cursor-pointer hover:shadow-lg hover:transition-all rounded-md
+}
+
+.dropdown {
+    @apply absolute top-[42px] right-0 left-0 bg-white border overflow-y-scroll shadow-lg z-10
+}
